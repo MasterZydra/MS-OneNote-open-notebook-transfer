@@ -29,6 +29,6 @@ Windows Registry Editor Version 5.00
 "1"="N:\\NetDrive1\\Folder\\Subfolder\\Notebooks\\OneNote1"
 "2"="N:\\NetDrive1\\AnotherFolder\\Subfolder\\MyNotes\\DeveloperNotebook"
 ```
-The number gives the order how they will be shown in OneNote.
+The number indicates the order in which they are displayed in OneNote.
 In the path the `16.0` determines the version of Office and therefore the OneNote version for the import:  
 [HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\**16.0**\\OneNote\\OpenNotebooks]
